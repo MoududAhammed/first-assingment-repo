@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin:0px;
 }
-#color{
+.color{
     color: orangered;
 }
 section{
@@ -35,4 +35,9 @@ h1{
     text-align: center;
     padding: 10px 40px;
     border-radius: 4px;
+}
+#second-part-heading{
+    text-align: center;
+    color: rgb(23, 23, 80);
+    margin-top: 50px;
 }
