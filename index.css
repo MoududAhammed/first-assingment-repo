@@ -23,7 +23,7 @@ h1{
     margin-left: 200px;
     margin-top: 100px;
 }
-.image{
+.image1{
     width: 60%;
     margin-left: 100px;
 
@@ -36,7 +36,7 @@ h1{
     padding: 10px 40px;
     border-radius: 4px;
 }
-#second-part-heading{
+.heading{
     text-align: center;
     color: rgb(23, 23, 80);
     margin-top: 100px;
@@ -77,7 +77,7 @@ h1{
     margin-right: 200px;
     margin-top: 40px;
 }
-#image{
+.image{
     height: 300px;
     width: 450px;
     border-radius: 20px;
