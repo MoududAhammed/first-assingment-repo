@@ -2,3 +2,37 @@ body{
     font-family: 'Poppins', sans-serif;
     margin:0px;
 }
+#color{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    /* use for adjustabe with my laptop */
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.border{
+    /* its uses make a border for first section first div's h1  */
+    border-left: tomato solid 5px;
+    border-radius: 3px;      
+}
+.font-page-bio{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.image{
+    width: 60%;
+    margin-left: 100px;
+
+}
+.button{
+    /* make a colourful button  */
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 4px;
+}
