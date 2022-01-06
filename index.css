@@ -39,13 +39,41 @@ h1{
 #second-part-heading{
     text-align: center;
     color: rgb(23, 23, 80);
-    margin-top: 50px;
+    margin-top: 200px;
 }
 .illustrator{
     width: 150px;
     height: 150px;
 }
-.second-section-box{
-    width: 500px;
-    height: 500px;
+
+.left-box{
+    background-color: rgb(252, 167, 252);
+    border-radius: 10px;
+    float: left;
+    padding: 20px;
+    width: 300px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.center-box{
+    background: rgb(163, 227, 252);
+    border-radius: 10px;
+    padding: 20px;
+    float: left;
+    width: 300px;
+    height: 450px;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.right-box{
+    background-color: rgb(164, 252, 164);
+    border-radius: 10px;
+    float: right;
+    padding: 20px;
+    width: 300px;
+    height: 450px;
+    margin-left: 60px;
+    margin-right: 200px;
+    margin-top: 40px;
 }
